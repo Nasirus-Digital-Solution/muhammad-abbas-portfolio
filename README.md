@@ -42,10 +42,7 @@ portfoli/
 
 ## 🌐 Deployment
 
-This portfolio is deployed on Azure Static Web Apps.
-
-### Live Website
-Visit: [Your Azure URL here]
+This portfolio is deployed on Github Web Apps.
 
 ## 📧 Contact
 
@@ -56,8 +53,6 @@ Visit: [Your Azure URL here]
 
 ## 📱 Social Links
 
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
 - WhatsApp: +44 7466 177017
 
 ## 📄 License
@@ -66,5 +61,6 @@ Visit: [Your Azure URL here]
 
 ---
 
-Built with ❤️ by Muhammad Abbas
+Built by Muhammad Abbas
+
 
